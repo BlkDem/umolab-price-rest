@@ -18,3 +18,4 @@ Route::get('/', function () {
     return view('welcome');
     // return Redirect::to('https://umolab-devices.com');
 });
+
